@@ -1,0 +1,253 @@
+APTITUDE TEST
+
+
+1.a)29
+2.c)20
+3.d)120
+4.a)60
+5.a)242
+6.a)J
+7.d)L
+8.d)FR
+9.a)bbaa
+10.d)GNV
+11.2
+12.16
+13.tables
+14.sun
+5.AC
+
+
+
+
+
+JAVA TEST:
+
+
+1.JAVA:
+Java is a object oriented programming language and it is platform independent. 
+
+
+javac : javac is the java compiler
+ It executes the  program.
+
+
+2. JDK:
+Java Developmeint kit.
+write the program or code.
+
+   
+
+JRE:Java runtimr environment
+ execute the progam.
+jRE=JDK+Class.libraries.
+
+
+
+JVM:java virtual machine 
+Actually executes the program.
+
+JVM=Java virtual machine 
+Actually  exexutes the program.
+JVM=JRE+JKD.
+
+
+3. Limitations of array
+  1.Array is always open and enclose with the  braces []
+  2.Index numbers
+  3.arrays are within the "" 
+  4. In the array index number should be mentioned.
+  
+  
+  
+4.
+class: class is a blue print /template and describes the object the variables.
+ Instaces of the class .
+ syntax:
+ class A{
+ ----data
+ 
+ 
+ Object:object is a real world entity.
+ object is a member of a class(instances of the class)
+ 
+ syntax:
+ class_name obj=new class_name();
+ 
+ signiture of the class 
+ 
+ 
+ 
+ 5.Array:
+ array is a collection variablea.
+ Array is variable that declare in the braces[].
+ 
+ 
+ 6.
+ Difference between .java file .class file 
+ .java file:
+ .java is for write the code 
+ extention is .java
+ 
+ 
+ 
+ 
+ 
+ 
+ .class file :
+ .class is covert the byte code to the machine language
+ 
+
+ 
+7.byte [] data ={12,34,9,0,-62,88}
+
+
+
+
+8.Method ; method is a block of code or varibles.
+sytax :
+return type class_name()
+
+
+ex: static void bike();
+
+{
+
+System.out.println("bike is good");
+}
+
+9. java;
+java is a object oriented programming  or a high level language that converts the byte code to the machine level language.
+
+
+10.
+variables : variables can store the values .
+
+
+types of variables are:
+
+String : String is text that store the alpabetic words.
+             It  is  alaways in the double quoet "" .
+	         Example: "Hello world"
+	   
+Byte:byte is a whole number. it is sufficient with in the range of -128 to  127.
+
+int :int  is a whole number. it is sufficient with in the range of -32,876.
+
+long :long  is storing the  is a whole number. it is sufficient with in the range of 2,34,5678,944.
+short :short   is a whole number. it is sufficient with in the range of 923456789.
+double: double is storing decimal numbers it is decimal number of 6 to 7
+ 
+char:char is a character stores the letters ,and ASCII values  and char always in the single quoet.
+
+
+
+11. class variable 
+instaces of the class variables.
+
+
+12.Datatype :
+datatype specifies the  values of the data.
+
+Types datatype:
+8-types of  datatypes--
+    1.byte
+	2.short
+	3.int
+	4.long
+	5.float
+	6.double
+	7.char
+	8.Boolean
+	
+	1.Byte:-
+	 Byte is  storing a whole number. it is store  with in the range of -128 to  127.
+	 size is 1byte
+	   ex: byte[]={2,3,4};
+	   
+	   
+	 2.short: Short is storing  the whole number .It is store in range    2,34,556,224
+	   ex: short ;
+	3.int:int is storing is a whole number. it is sufficient with in the range of -32,876.
+	       ex: int age;
+
+    4.long :long  is storing the  is a whole number. it is sufficient with in the range of 2,34,5678,944.
+
+
+    5. float: float is storing   the decimal numbers  it is sufficient to 6 to  7 decimals.
+	     size is 4.
+		  ex: float a=2.3446;
+ 
+    6.double :float is storing   the decimal numbers  it is sufficient to 10 to  15 decimals.
+            size is 8byte.
+			ex: double b=2.77896865;
+	7. char:char is a character stores the letters ,and ASCII values  and char always in the single quoet
+         size is 4byte .
+		 
+    8.boolean: store the true and  false values.
+ 
+ 
+ 13. java features ;
+  1.java is simple and easy to learn.
+  2.platform indepent
+  3.robust 
+  4.compiler and interpretor
+  5.
+  
+  14.types og array 
+  1.array list 
+  2.linlked list 
+  
+  
+  16.  System.out,println()
+  
+  System-keyword
+  out-static variable 
+   . -method_name
+   println- println the meeage 
+   ()-parameet
+   
+   
+   17.double equal opertaor
+     Assign the values.
+
+
+18.dot operator:
+dot opertot is used to address the instaces.
+
+
+19.  for
+
+
+20. keyword 10
+  static 
+  void
+  new 
+  class 
+  print
+  public 
+  string 
+  array
+  linked list 
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
