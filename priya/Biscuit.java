@@ -4,7 +4,7 @@ class Biscuit{
 	String brand;
 	int packets=100;
 	
-	Biscuit(){
+	Biscuit()
 	{
 		System.out.println(" --Running constructor is biscuit ---");
 	}
