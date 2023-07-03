@@ -1,7 +1,7 @@
 class Bun{
    String name;
    int price=20;
-   Sting color="white";
+   String color="white";
    int size;
       Bun()
 	{
