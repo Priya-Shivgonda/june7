@@ -1,5 +1,5 @@
 class Sweet{
-String brand;
+        String brand;
 	int size;
 	int price=100;
 	String name="Mysore pak";
