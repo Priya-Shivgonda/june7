@@ -1,16 +1,13 @@
 class Waffer{
-
 	String flour;
 	int size;
 	int orders;
 	String name;
 	Waffer()
 	{
-		System.out.println("waffer  is  comstructor ");
+	 System.out.println("waffer  is  constructor");
 	}
-}
-
-
+    }
 
 class WafferRunner{
 	public static void main(String[] args)
