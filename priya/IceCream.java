@@ -1,8 +1,8 @@
 class IceCream{
-    String flour="Buttet scotch";
+        String flour="Butterscotch";
 	int size;
 	int price=100;
-	String company;
+	String color;
 	IceCream()
 	{
 		System.out.println("Icecream is cool ");
@@ -19,7 +19,7 @@ class IceCreamRunner{
 		System.out.println(ref.flour);
 		System.out.println(ref.size);
 		System.out.println(ref.price);
-		System.out.println(ref.company);
+		System.out.println(ref.color);
 	}
 }
 		
