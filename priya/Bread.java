@@ -1,14 +1,14 @@
 class Bread{
     String bakery="bangalore bakery";
-	String taste;
+	String tasty;
 	int size;
 	int noOfItemsUsed=5;
 	
 	Bread()
 	{
-	System.out.println("Running constructor are breads");
+	System.out.println("Running constructor are bread");
 	}
-	}
+}
 	
 	
 	
