@@ -5,7 +5,7 @@ class Candy{
 	String name;
 	Candy()
 	{
-		System.out.println("Candy is taste");
+		System.out.println("Candy is tasty");
 	}
 }
 
