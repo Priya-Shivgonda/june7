@@ -1,13 +1,13 @@
 class Bun{
-String name;
-int price=20;
-Sting color="white";
-int size;
-Bun()
-{
-System.out.println("Bun is good");
-}
-}
+   String name;
+   int price=20;
+   String color="white";
+   int size;
+      Bun()
+	{
+           System.out.println("Bun is good");
+        }
+   }
 
 
 

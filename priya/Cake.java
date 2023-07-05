@@ -1,9 +1,9 @@
 class Cake{
-	String flour;
-	int size;
-	int weight=2kg;
+	String flour="Pineapple";
+	int no_of_cakes=20;
+	int weight;
 	String name;
-	Cake();
+	Cake()
 	{
 		System.out.println("cake is taste");
 	}
@@ -17,7 +17,7 @@ class CakeRunner{
 		System.out.prinln("Cake runner is main method");
 		Cake ref=new Cake();
 		System.out.prinln(ref.flour);
-		System.out.prinln(ref.size);
+		System.out.prinln(ref.no_of_cakes);
 		System.out.prinln(ref.weight);
 		System.out.prinln(ref.name);
 	}
