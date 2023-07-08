@@ -1,0 +1,152 @@
+              Aptitude  Test
+
+
+1)	a.brother
+2) c.father-in-law
+3) a.brother
+4) d.brother
+5) a.son-in-law
+6) d.X/A*Y
+7) a.p
+8) b.brother-in- law
+9) d.sister-in-law
+10)a.p
+11)b.8kms
+12)d.west
+13)c.north-east
+14)d.North-East
+
+             Java Test 
+ 
+ 
+ 1)2
+ 2) 1,1,0
+ 3) false
+ 
+ 4) Main method is static because jvm invoking the instatiating the class.
+      
+ 5) class ReverseArray{
+      System.out.println(String[] args)
+			{
+			int arr[]=['10','45','7','9','2'}
+			int  n=arr.length;
+			for(int i=n-1; i>0; i--)
+			System.out.println(arr[i]+" ");
+			}
+			}
+ 6)   
+        class RemoveDuplicateInArray{
+		stastic int RemoveDuplicateInArray(int arr[],int n)
+		{
+		if (n==0 || n==1){
+		return n;
+		}
+		int ref=new int[n];
+		int j=0;
+		for (int i=0;i<n-1; i++)
+		{ 
+		if (arr[i] !=arr[i+1){
+		ref[j++]=arr[i];
+		}
+		}
+		ref[j++=arr[n-1];
+		for (int i=o;i<j;i++)
+		arr[i]=ref[i];
+		}
+		return j
+		}
+		
+		puclic static void main(String[] Args)
+		{
+		int arr[]=
+		int length=arr.length;
+		length=RemoveDuplicateInArray(arr,length);
+		for (int i=0;i<length;i++)
+		System.out.print(arr[j]+ "");
+		}
+		}
+
+ 7)Done
+
+ 8) 
+    this keyword is used to refer to the current object through  which the  method is called.
+	this() keyword is used to call one constructor to the another constructor  from the same class. 
+
+9)		class SwapTwoNumbers{
+    public static void main(String[] args)
+	{
+	int a=2;
+	int b=5;
+	
+	
+	System.out.println("before swapping")
+	System.out.println("value of a is: "+a);
+	System.out.println("value of b is: "+b);
+	
+	a=a+b;
+	b=a-b;
+	a=a-b
+		
+	System.out.println("after swapping")
+	System.out.println("value of a is: "+a);
+	System.out.println("value of b is: "+b);
+	}
+	}
+	
+10)    
+
+   1.   class  Matrix{
+		
+	    public static  void main(String[] args)
+       {
+		   int  matrix[][]={{&, ,&},{,&,},{&, , &}}
+		   for (int  i=0; i<matrix.length; i++
+		   {
+		   for(int j=0; j<matrix.length; j++)
+		   System.out.print(Matrix[i][j] +"");
+		   }
+		   System.out.println();
+		   }
+		   }
+	   }
+	   
+    2.
+	    class  Matrix{
+		
+	    public static  void main(String[] args)
+       {
+		   int  matrix[][]={{%,%,%},{%,&,%},{%,%,%}}
+		   for (int  i=0; i<matrix.length; i++
+		   {
+		   for(int j=0; j<matrix.length; j++)
+		   System.out.print(Matrix[i][j] +"");
+		   }
+		   System.out.println();
+		   }
+		   }
+	   }
+		   
+   3.   
+       class  Matrix{
+		
+	   public static  void main(String[] args)
+       {
+		   int  matrix[][]={{%,%,%},{%,  ,%},{%,%,%}}
+		   for (int  i=0; i<matrix.length; i++
+		   {
+		   for(int j=0; j<matrix.length; j++)
+		   System.out.print(Matrix[i][j] +"");
+		   }
+		   System.out.println();
+           }
+	  }
+		   }
+   
+	   
+	
+	
+	
+	  
+ 
+ 
+ 
