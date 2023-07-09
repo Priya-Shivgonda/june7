@@ -11,8 +11,8 @@ class  FireExtinguisherRunner{
 		ref1.type="water";
 		ref1.materials="chemical";
 		ref1.noOfFireExtinguisher=7;
-	    ref1.price=44000;
-        ref1.weight=60;
+	        ref1.price=44000;
+                ref1.weight=60;
 		ref1.printInstanceVariables();
      }
    }

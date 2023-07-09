@@ -1,5 +1,5 @@
-class Oil{
-    String brand;
+ class Oil{
+        String brand;
 	String type;
 	int price;
 	double quantity;
@@ -22,7 +22,6 @@ class Oil{
 	}
 	 void  printInstanceVariables()
 	 {
-		 
 		 System.out.println("oil brand:"+brand);
 		 System.out.println("oil type:"+type);
 		 System.out.println("oil price:"+price);
