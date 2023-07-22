@@ -3,7 +3,7 @@ class WorkerRunner{
    {
 	   System.out.println("WorkerRunner is main method ");
 	   Worker ref=new Worker();
-       ref.printInstanceVariables()
+           ref.printInstanceVariables()
 	   
 	   
 	   Worker ref1=new Worker("Rahul",12000,1,4,"Cashier");

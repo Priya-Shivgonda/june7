@@ -1,5 +1,5 @@
 class Oil{
-    String brand;
+        String brand;
 	String type;
 	int price;
 	double quantity;

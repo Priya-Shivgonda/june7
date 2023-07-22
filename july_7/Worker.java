@@ -22,7 +22,7 @@ class  Worker{
    
    void printInstanceVariables()
    {
-	    System.out.println("worker name:"+name);
+	        System.out.println("worker name:"+name);
 		System.out.println("worker salary:"+salary);
 		System.out.println("worker id:"+id);
 		System.out.println("worker experience:"+experience);

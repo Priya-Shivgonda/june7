@@ -27,7 +27,7 @@ class  FireExtinguisher{
 		System.out.println("FireExtinguisher type:"+type);
 		System.out.println("FireExtinguisher materials:"+materials);
 		System.out.println("FireExtinguisher noOfFireExtinguisher:"+noOfFireExtinguisher);
-        System.out.println("FireExtinguisher price:"+price);
+                System.out.println("FireExtinguisher price:"+price);
 		System.out.println("FireExtinguisher weight:"+weight);
 
 }
